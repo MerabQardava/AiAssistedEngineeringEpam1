@@ -133,5 +133,3 @@ target/site/jacoco/index.html
 
 ---
 
-## License
-MIT License. See [LICENSE](LICENSE) for details.
